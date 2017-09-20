@@ -9,6 +9,7 @@ It is a multithreaded client/server ChatServer based on console which uses Java 
 *****************
 
 **Client**
+
 To start the Client in console mode use one of the following command
  1. java Client
  2. java Client username
@@ -21,12 +22,14 @@ If the serverAddress is not specified "localHost" is used
 If the username is not specified "Anonymous" is used
 
 **Server**
+
 To run as a console application
  1. java Server
  2. java Server portNumber
 If the port number is not specified 1500 is used
 
 **Chat**
+
 While in client console:
 1. Simply type the message to send broadcast to all active clients
 2. Type '@username<space>yourmessage' without quotes to send message to desired client
