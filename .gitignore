@@ -15,4 +15,4 @@ target/
 *.so
 *.pyc
 *.py~
-README~
+*md~
